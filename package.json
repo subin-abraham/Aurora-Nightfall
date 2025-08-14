@@ -1,11 +1,32 @@
 {
   "name": "aurora-nightfall",
   "displayName": "Aurora Nightfall",
-  "description": "A vibrant rainbow-themed dark VS Code theme based on Night Owl’s background (#011627), with richly colored syntax highlighting across the spectrum.",
+  "description": "A vibrant rainbow-themed dark VS Code theme with uniquely colored syntax highlights across the spectrum.",
   "version": "0.0.1",
   "publisher": "subin-abraham",
-  "engines": {"vscode": "^1.50.0"},
+  "license": "MIT", 
+  "repository": "https://github.com/subin-abraham/Aurora-Nightfall.git",
+  "keywords": [
+    "dark theme",
+    "rainbow",
+    "high-contrast",
+    "aurora",
+    "night",
+    "colorful",
+    "syntax highlighting",
+    "web development",
+    "JS",
+    "TS"
+  ],
+  "engines": {
+    "vscode": "^1.50.0"
+  },
   "categories": ["Themes"],
+  "icon": "images/Icon.png",
+  "galleryBanner": {
+    "color": "#011627",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
