@@ -20,7 +20,6 @@ Aurora Nightfall combines a near-black background with a lively rainbow spectrum
 
 *(Include captivating screenshots to demonstrate the theme in action)*
 
-```markdown
 ![Editor Preview](https://github.com/subin-abraham/Aurora-Nightfall/raw/HEAD/images/UI_One.png)
 ![Sidebar Snapshot](https://github.com/subin-abraham/Aurora-Nightfall/raw/HEAD/images/UI_Two.png)
 ![Sidebar Snapshot](https://github.com/subin-abraham/Aurora-Nightfall/raw/HEAD/images/UI_Three.png)
